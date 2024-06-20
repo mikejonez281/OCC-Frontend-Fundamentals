@@ -67,16 +67,16 @@
         <div id="element-to-be-removed">Remove this element</div>
     </div>
 
-    <div>
+   <div>
         <h3>Adding Event Listeners and Manipulating Element Styles</h3>
         <div>
             <button id="dark-mode-btn">Dark Mode</button>
+            <button id="light-mode-btn">Light Mode</button>
         </div>
         <div id="page-container">
             <div id="page-mode-text">Light Mode</div>
             <div>Welcome to my profile</div>
         </div>
-    </div>
 
     <script src="./app.js"></script>
 </body>
